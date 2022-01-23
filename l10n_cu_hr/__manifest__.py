@@ -10,7 +10,7 @@
      """,
      'author': 'Comunidad Cubana de Odoo',
      'depends': ["hr"],
-     'auto_install': True,     
+     'auto_install': False,     
      'data': [
           "data/hr_data.xml",
           "data/resource_data.xml",

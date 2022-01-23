@@ -23,5 +23,5 @@
         'views/res_bank_view.xml',
         'data/res_bank_data.xml',
     ],
-    "auto_install": True,
+    "auto_install": False,
 }
