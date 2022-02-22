@@ -1,5 +1,5 @@
 # List of contributors:
-# Segu S.U.R.L
+# Segu
 
 {
      'name': 'Cuba - Nóminas',
@@ -7,7 +7,7 @@
      'category': 'Human Resources',
      # 'description': 'Nóminas para las MIPYME en Cuba.',
      'summary': """
-        Nóminas - Cuba.
+        Estructuras y reglas salariales, proyecciones de salarios.
      """,
      'author': 'Comunidad Cubana de Odoo',
      'depends': ["l10n_cu_hr", "hr_payroll_community"],
@@ -22,6 +22,5 @@
           "views/report_payslip_run_template.xml",
           "reports/hr_payroll_report.xml",
           "wizard/hr_payroll_projection_wizard.xml",
-          "wizard/hr_payroll_payslips_by_employees_wizard.xml",
      ],
 }

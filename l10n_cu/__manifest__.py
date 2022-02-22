@@ -6,10 +6,10 @@
 # Yunior Rafael Hernández Cabrera <yunior@idola.it>
 # Yusnel Rojas Garcia
 # Julio Smith
-# Segu S.U.R.L
+# Segu
 
 {
-    'name': 'Cuba - Accounting',
+    'name': 'Cuba - Contabilidad',
     'version': '14.0.1.0.0',
     'author': 'Idola Odoo Team, Comunidad cubana de Odoo ',
     'category': 'Accounting/Localizations/Account Charts',
@@ -36,6 +36,9 @@
         'data/account_fiscal_position_template_data.xml',
         'data/account_fiscal_position_tax_template_data.xml',
         'data/account_chart_template_data.xml',
+        'data/res_cnae_data.xml',
         "views/account_views.xml",
+        "views/res_company_views.xml",
+        "security/ir.model.access.csv"
     ],
 }

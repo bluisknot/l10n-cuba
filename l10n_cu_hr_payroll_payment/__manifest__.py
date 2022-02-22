@@ -1,12 +1,12 @@
 # List of contributors:
-# Segu S.U.R.L
+# Segu
 
 {
      'name': 'Cuba - Pago de Nóminas',
      'version': '0.1',
      'category': 'Human Resources',
      'summary': """
-        Pago masivo de nóminas - Cuba.
+        Pago masivo de nóminas.
      """,
      'author': 'Comunidad Cubana de Odoo',
      'depends': ["l10n_cu", "l10n_cu_hr", "l10n_cu_hr_payroll_account"],

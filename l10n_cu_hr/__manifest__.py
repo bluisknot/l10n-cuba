@@ -1,12 +1,12 @@
 # List of contributors:
-# Segu S.U.R.L
+# Segu
 
 {
      'name': 'Cuba - RRHH',
      'version': '0.1',
      'category': 'Human Resources',
      'summary': """
-        RRHH - Cuba.
+        Empleados, tarjetas de asistencias.
      """,
      'author': 'Comunidad Cubana de Odoo',
      'depends': ["hr"],
