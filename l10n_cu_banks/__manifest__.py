@@ -15,7 +15,6 @@
         * Define las sucursales bancarias del país incluida su dirección y teléfono
     """,
     'depends': [
-        'l10n_cu',
         'l10n_cu_address',
     ],
     "license": "AGPL-3",
