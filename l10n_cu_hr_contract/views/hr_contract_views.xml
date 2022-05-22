@@ -5,10 +5,10 @@
         <field name="inherit_id" ref="hr_contract.hr_contract_view_form"/>
         <field name="arch" type="xml">
             <xpath expr="//group[@name='main_info']" position="inside">
-                <group name="social_security" string="Seguridad Social">
+<!--                <group name="social_security" string="Seguridad Social">-->
                     <field name="multi_job"/>
                     <field name="regimen_contribution" attrs="{'invisible': [('multi_job', '=', True)]}"/>
-                </group>
+<!--                </group>-->
             </xpath>
        </field>
     </record>

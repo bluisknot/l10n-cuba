@@ -49,4 +49,5 @@
         <field name="parent_id" ref="l10n_cu_chart_template_common"/>
         <field name="currency_id" ref="base.CUP"/>
     </record>
+
 </odoo>
